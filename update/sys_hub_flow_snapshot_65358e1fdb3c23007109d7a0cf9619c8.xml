@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow_snapshot">
+    <sys_hub_flow_snapshot action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <annotation/>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Flow to test custom action.</description>
+        <internal_name>action_test_flow</internal_name>
+        <label_cache>[{"name":"e2ba9bf3-18fe-40a4-a587-1229322d3b64.property_value","label":"1➛property_value","reference_display":"property_value","type":"string","base_type":"string"}]</label_cache>
+        <master>true</master>
+        <name>Action Test Flow</name>
+        <outputs/>
+        <parent_flow display_value="Action Test Flow">853fbd1bdb3c23007109d7a0cf961923</parent_flow>
+        <remote_trigger_id/>
+        <sc_callable>false</sc_callable>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow_snapshot</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-02 13:25:30</sys_created_on>
+        <sys_id>65358e1fdb3c23007109d7a0cf9619c8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Action Test Flow</sys_name>
+        <sys_package display_value="NeedIt Spoke" source="x_276829_needit_sp">92bdb1d7db3c23007109d7a0cf9619c2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">92bdb1d7db3c23007109d7a0cf9619c2</sys_scope>
+        <sys_update_name>sys_hub_flow_snapshot_65358e1fdb3c23007109d7a0cf9619c8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-02 13:25:30</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow_snapshot>
+    <sys_variable_value action="delete_multiple" query="document_key=65358e1fdb3c23007109d7a0cf9619c8"/>
+</record_update>
